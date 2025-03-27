@@ -1,0 +1,7 @@
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numero_entre_20_e_90\Numero_entre_20_e_90\bin\Debug\Numero_entre_20_e_90.exe.config
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numero_entre_20_e_90\Numero_entre_20_e_90\bin\Debug\Numero_entre_20_e_90.exe
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numero_entre_20_e_90\Numero_entre_20_e_90\bin\Debug\Numero_entre_20_e_90.pdb
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numero_entre_20_e_90\Numero_entre_20_e_90\obj\Debug\Numero_entre_20_e_90.csproj.AssemblyReference.cache
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numero_entre_20_e_90\Numero_entre_20_e_90\obj\Debug\Numero_entre_20_e_90.csproj.CoreCompileInputs.cache
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numero_entre_20_e_90\Numero_entre_20_e_90\obj\Debug\Numero_entre_20_e_90.exe
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numero_entre_20_e_90\Numero_entre_20_e_90\obj\Debug\Numero_entre_20_e_90.pdb
