@@ -1,0 +1,7 @@
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numerode1a100!\Numerode1a100!\obj\Debug\Numerode1a100!.csproj.AssemblyReference.cache
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numerode1a100!\Numerode1a100!\obj\Debug\Numerode1a100!.csproj.CoreCompileInputs.cache
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numerode1a100!\Numerode1a100!\bin\Debug\Numerode1a100!.exe.config
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numerode1a100!\Numerode1a100!\bin\Debug\Numerode1a100!.exe
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numerode1a100!\Numerode1a100!\bin\Debug\Numerode1a100!.pdb
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numerode1a100!\Numerode1a100!\obj\Debug\Numerode1a100!.exe
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Numerode1a100!\Numerode1a100!\obj\Debug\Numerode1a100!.pdb

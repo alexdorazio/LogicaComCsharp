@@ -1,0 +1,7 @@
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Eleitor\Eleitor\obj\Debug\Eleitor.csproj.AssemblyReference.cache
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Eleitor\Eleitor\obj\Debug\Eleitor.csproj.CoreCompileInputs.cache
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Eleitor\Eleitor\bin\Debug\Eleitor.exe.config
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Eleitor\Eleitor\bin\Debug\Eleitor.exe
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Eleitor\Eleitor\bin\Debug\Eleitor.pdb
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Eleitor\Eleitor\obj\Debug\Eleitor.exe
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Eleitor\Eleitor\obj\Debug\Eleitor.pdb

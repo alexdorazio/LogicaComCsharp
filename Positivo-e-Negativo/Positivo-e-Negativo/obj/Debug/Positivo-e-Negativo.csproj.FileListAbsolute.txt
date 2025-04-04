@@ -1,0 +1,7 @@
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Positivo-e-Negativo\Positivo-e-Negativo\bin\Debug\Positivo-e-Negativo.exe.config
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Positivo-e-Negativo\Positivo-e-Negativo\bin\Debug\Positivo-e-Negativo.exe
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Positivo-e-Negativo\Positivo-e-Negativo\bin\Debug\Positivo-e-Negativo.pdb
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Positivo-e-Negativo\Positivo-e-Negativo\obj\Debug\Positivo-e-Negativo.csproj.AssemblyReference.cache
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Positivo-e-Negativo\Positivo-e-Negativo\obj\Debug\Positivo-e-Negativo.csproj.CoreCompileInputs.cache
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Positivo-e-Negativo\Positivo-e-Negativo\obj\Debug\Positivo-e-Negativo.exe
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\Positivo-e-Negativo\Positivo-e-Negativo\obj\Debug\Positivo-e-Negativo.pdb

@@ -1,0 +1,7 @@
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\emprestimo\emprestimo\bin\Debug\emprestimo.exe.config
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\emprestimo\emprestimo\bin\Debug\emprestimo.exe
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\emprestimo\emprestimo\bin\Debug\emprestimo.pdb
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\emprestimo\emprestimo\obj\Debug\tabuada.csproj.AssemblyReference.cache
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\emprestimo\emprestimo\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\emprestimo\emprestimo\obj\Debug\emprestimo.exe
+C:\Users\alex.dreis\source\repos\LogicaComCsharpTi26\LogicaComCshaprTI26\LogicaComCsharp\emprestimo\emprestimo\obj\Debug\emprestimo.pdb

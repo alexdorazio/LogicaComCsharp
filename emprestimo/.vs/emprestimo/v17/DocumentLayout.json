@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alex.dreis\\source\\repos\\LogicaComCsharpTi26\\LogicaComCshaprTI26\\LogicaComCsharp\\emprestimo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CAF0F7-14EA-482B-94C5-78DE03C4FDD9}|emprestimo\\emprestimo.csproj|c:\\users\\alex.dreis\\source\\repos\\logicacomcsharpti26\\logicacomcshaprti26\\logicacomcsharp\\emprestimo\\emprestimo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CAF0F7-14EA-482B-94C5-78DE03C4FDD9}|emprestimo\\emprestimo.csproj|solutionrelative:emprestimo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alex.dreis\\source\\repos\\LogicaComCsharpTi26\\LogicaComCshaprTI26\\LogicaComCsharp\\emprestimo\\emprestimo\\Program.cs",
+              "RelativeDocumentMoniker": "emprestimo\\Program.cs",
+              "ToolTip": "C:\\Users\\alex.dreis\\source\\repos\\LogicaComCsharpTi26\\LogicaComCshaprTI26\\LogicaComCsharp\\emprestimo\\emprestimo\\Program.cs",
+              "RelativeToolTip": "emprestimo\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:59:18.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
